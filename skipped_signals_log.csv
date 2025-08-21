@@ -37238,3 +37238,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 17:45:48,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 18:17:49,ETHFIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 18:17:52,ETHFIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1736 (низкий)""}"
+2025-08-21 18:36:39,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
