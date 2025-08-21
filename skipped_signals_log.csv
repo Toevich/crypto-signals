@@ -37182,3 +37182,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:44:37,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:44:40,LTCUSDT,short,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-21 14:44:49,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:44:52,LTCUSDT,short,prob_low_on_yellow_volume,"{""prob"": 64}"
