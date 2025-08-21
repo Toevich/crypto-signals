@@ -36992,3 +36992,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 09:34:13,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:34:26,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:46:15,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 10:05:21,EIGENUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
