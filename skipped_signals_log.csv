@@ -37103,3 +37103,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 13:01:54,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 680 (низкий)""}"
 2025-08-21 13:03:39,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 13:03:42,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
+2025-08-21 13:04:58,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
