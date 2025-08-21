@@ -37119,3 +37119,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 13:23:47,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 13:24:11,TRUMPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 13:24:14,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 680 (низкий)""}"
+2025-08-21 13:24:23,AI16ZUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
