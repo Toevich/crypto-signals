@@ -37166,3 +37166,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:25:21,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:26:39,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:27:06,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:36:50,SOONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
