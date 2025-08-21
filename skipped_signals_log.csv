@@ -37156,3 +37156,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:20:14,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:20:17,WIFUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3433 (низкий)""}"
 2025-08-21 14:20:28,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:20:30,WIFUSDT,short,local_15m_uptrend,{}
