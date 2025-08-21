@@ -37007,3 +37007,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 11:05:07,LDOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:09:47,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:09:49,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 11:19:25,OPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
