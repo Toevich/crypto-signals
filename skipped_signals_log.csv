@@ -36970,3 +36970,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 09:11:50,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:14:39,EIGENUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:15:24,EIGENUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 09:15:34,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
