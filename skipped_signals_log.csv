@@ -37264,3 +37264,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 20:38:25,TIAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 20:40:15,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 20:40:18,ONDOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 10001 (низкий)""}"
+2025-08-21 20:45:28,ENSUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
