@@ -37137,3 +37137,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:13:58,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:14:00,1000PEPEUSDT,short,local_15m_uptrend,{}
 2025-08-21 14:14:56,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:14:58,POPCATUSDT,short,local_15m_uptrend,{}
