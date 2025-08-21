@@ -37330,3 +37330,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 03:50:40,UMAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 03:54:13,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 04:14:08,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 04:14:11,LTCUSDT,short,low_volume,"{""note"": ""🔴 Объём: 146 (низкий)""}"
