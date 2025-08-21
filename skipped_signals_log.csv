@@ -37174,3 +37174,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:43:33,WLDUSDT,short,low_volume,"{""note"": ""🔴 Объём: 11515 (низкий)""}"
 2025-08-21 14:43:45,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:43:56,SHIB1000USDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:43:59,SHIB1000USDT,short,low_volume,"{""note"": ""🔴 Объём: 201170 (низкий)""}"
