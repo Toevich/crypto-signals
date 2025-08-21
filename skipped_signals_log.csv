@@ -37148,3 +37148,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:19:02,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
 2025-08-21 14:19:13,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:19:16,WIFUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3433 (низкий)""}"
+2025-08-21 14:19:25,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
