@@ -37269,3 +37269,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 20:45:44,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 21:00:17,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 21:00:38,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 21:00:41,ETHPERP,long,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
