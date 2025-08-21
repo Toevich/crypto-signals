@@ -37020,3 +37020,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 11:41:34,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:41:37,TONUSDT,short,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-21 11:41:48,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 11:41:51,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
