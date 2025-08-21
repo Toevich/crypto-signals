@@ -37215,3 +37215,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:08:48,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 590 (низкий)""}"
 2025-08-21 15:08:57,OPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:09:00,OPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 13177 (низкий)""}"
+2025-08-21 15:09:11,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
