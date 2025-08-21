@@ -37281,3 +37281,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 21:56:05,API3USDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 21:56:08,API3USDT,short,low_volume,"{""note"": ""🔴 Объём: 10724 (низкий)""}"
 2025-08-21 22:15:21,MNTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 22:15:24,MNTUSDT,long,low_volume,"{""note"": ""🔴 Объём: 23724 (низкий)""}"
