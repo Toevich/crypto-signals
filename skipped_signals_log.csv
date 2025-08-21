@@ -37062,3 +37062,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 11:52:45,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:57:39,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:57:51,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 11:59:11,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
