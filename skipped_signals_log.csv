@@ -37201,3 +37201,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:07:12,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:07:15,AVAXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 630 (низкий)""}"
 2025-08-21 15:07:26,HBARUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 15:07:38,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
