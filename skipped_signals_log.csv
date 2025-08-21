@@ -37197,3 +37197,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:00:40,CUDISUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:00:43,CUDISUSDT,long,low_volume,"{""note"": ""🔴 Объём: 51310 (низкий)""}"
 2025-08-21 15:06:56,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 15:07:00,FARTCOINUSDT,short,low_volume,"{""note"": ""🔴 Объём: 62885 (низкий)""}"
