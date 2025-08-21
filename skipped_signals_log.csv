@@ -37284,3 +37284,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 22:15:24,MNTUSDT,long,low_volume,"{""note"": ""🔴 Объём: 23724 (низкий)""}"
 2025-08-21 22:15:49,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 22:15:52,1000BONKUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2179400 (низкий)""}"
+2025-08-21 23:00:54,ETHPERP,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
