@@ -37164,3 +37164,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:22:30,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:22:59,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:25:21,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:26:39,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
