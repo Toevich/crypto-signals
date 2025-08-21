@@ -37210,3 +37210,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:08:19,1000BONKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:08:22,1000BONKUSDT,short,low_volume,"{""note"": ""🔴 Объём: 229800 (низкий)""}"
 2025-08-21 15:08:32,TRUMPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 15:08:35,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 590 (низкий)""}"
