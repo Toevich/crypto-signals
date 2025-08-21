@@ -37184,3 +37184,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:44:49,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:44:52,LTCUSDT,short,prob_low_on_yellow_volume,"{""prob"": 64}"
 2025-08-21 14:45:01,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:45:13,OPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
