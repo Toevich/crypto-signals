@@ -37246,3 +37246,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 19:06:57,API3USDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 19:07:01,API3USDT,short,low_volume,"{""note"": ""🔴 Объём: 10724 (низкий)""}"
 2025-08-21 19:32:09,LDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 19:32:12,LDOUSDT,long,local_15m_downtrend,{}
