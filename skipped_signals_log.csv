@@ -36955,3 +36955,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 08:19:27,PENGUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 08:40:48,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 08:40:51,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 08:48:52,EIGENUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
