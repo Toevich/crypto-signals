@@ -37276,3 +37276,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 21:23:54,SEIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 21:23:57,SEIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 6373 (низкий)""}"
 2025-08-21 21:40:00,LINKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 21:40:03,LINKUSDT,short,local_15m_uptrend,{}
