@@ -37207,3 +37207,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:07:56,DOGEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 750821 (низкий)""}"
 2025-08-21 15:08:07,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:08:09,AVAXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 630 (низкий)""}"
+2025-08-21 15:08:19,1000BONKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
