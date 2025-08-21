@@ -37191,3 +37191,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:45:42,GALAUSDT,short,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-21 14:45:53,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:46:05,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:46:08,JUPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 11791 (низкий)""}"
