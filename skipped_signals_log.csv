@@ -37241,3 +37241,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 18:36:39,FARTCOINUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 18:46:39,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 19:04:23,AI16ZUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 19:05:04,XMRUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
