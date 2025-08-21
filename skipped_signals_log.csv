@@ -37089,3 +37089,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 12:33:34,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 12:33:44,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 12:46:28,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 12:46:31,TONUSDT,short,prob_low_on_yellow_volume,"{""prob"": 61}"
