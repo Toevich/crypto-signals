@@ -36978,3 +36978,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 09:19:59,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:20:06,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:22:12,LDOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 09:22:15,LDOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
