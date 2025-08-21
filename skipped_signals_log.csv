@@ -37132,3 +37132,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:08:10,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:08:21,SUIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:09:11,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 14:10:01,AI16ZUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
