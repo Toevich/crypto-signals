@@ -37029,3 +37029,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 11:42:50,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:42:52,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
 2025-08-21 11:43:02,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 11:43:04,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
