@@ -36946,3 +36946,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 07:23:09,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 07:36:55,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 07:37:06,OPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 07:40:15,PENGUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
