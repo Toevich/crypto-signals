@@ -37078,3 +37078,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 12:19:35,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 12:21:48,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 12:21:51,BERAUSDT,short,local_15m_uptrend,{}
+2025-08-21 12:22:03,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
