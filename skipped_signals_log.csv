@@ -37257,3 +37257,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 20:01:29,ZORAUSDT,long,prob_low_on_yellow_volume,"{""prob"": 64}"
 2025-08-21 20:15:01,MNTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 20:15:05,MNTUSDT,long,low_volume,"{""note"": ""🔴 Объём: 23724 (низкий)""}"
+2025-08-21 20:30:25,1000PEPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
