@@ -37336,3 +37336,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 05:40:40,BIOUSDT,short,low_volume,"{""note"": ""🔴 Объём: 177836 (низкий)""}"
 2025-08-22 05:49:29,SOONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 05:49:31,SOONUSDT,short,low_volume,"{""note"": ""🔴 Объём: 22582 (низкий)""}"
+2025-08-22 05:51:01,UMAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
