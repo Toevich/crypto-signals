@@ -37123,3 +37123,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 13:24:26,AI16ZUSDT,short,prob_low_on_yellow_volume,"{""prob"": 68}"
 2025-08-21 13:26:21,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 13:41:04,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 13:49:11,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
