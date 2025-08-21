@@ -37107,3 +37107,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 13:05:01,POLUSDT,short,local_15m_uptrend,{}
 2025-08-21 13:05:42,1000BONKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 13:05:44,1000BONKUSDT,short,local_15m_uptrend,{}
+2025-08-21 13:06:06,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
