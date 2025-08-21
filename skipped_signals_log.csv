@@ -37218,3 +37218,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:09:11,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:09:13,TIAUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1967 (низкий)""}"
 2025-08-21 15:09:23,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 15:09:26,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 2 (низкий)""}"
