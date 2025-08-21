@@ -36985,3 +36985,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 09:25:49,BERAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:31:19,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 09:31:50,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 09:32:19,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
