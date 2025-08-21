@@ -37134,3 +37134,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 14:09:11,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:10:01,AI16ZUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 14:10:05,AI16ZUSDT,short,prob_low_on_yellow_volume,"{""prob"": 68}"
+2025-08-21 14:13:58,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
