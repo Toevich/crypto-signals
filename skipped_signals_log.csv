@@ -37255,3 +37255,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 19:50:59,PENDLEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1693 (низкий)""}"
 2025-08-21 20:01:26,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 20:01:29,ZORAUSDT,long,prob_low_on_yellow_volume,"{""prob"": 64}"
+2025-08-21 20:15:01,MNTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
