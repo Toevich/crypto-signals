@@ -37225,3 +37225,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 15:10:02,SUSDT,short,low_volume,"{""note"": ""🔴 Объём: 2485 (низкий)""}"
 2025-08-21 15:10:17,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 15:10:20,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 2 (низкий)""}"
+2025-08-21 15:14:15,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
