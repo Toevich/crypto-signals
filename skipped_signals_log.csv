@@ -37015,3 +37015,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 11:35:37,CRVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:40:56,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 11:41:10,WLDUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-21 11:41:21,TRUMPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
