@@ -37231,3 +37231,4 @@ timestamp,symbol,side,reason,extra
 2025-08-21 16:47:04,CUDISUSDT,long,low_volume,"{""note"": ""🔴 Объём: 11600 (низкий)""}"
 2025-08-21 16:56:20,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-21 16:56:23,ZORAUSDT,long,prob_low_on_yellow_volume,"{""prob"": 61}"
+2025-08-21 17:30:18,LDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
