@@ -37315,3 +37315,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 01:40:32,UMAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 01:41:29,BBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 01:41:32,BBUSDT,short,local_15m_uptrend,{}
+2025-08-22 01:45:38,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
