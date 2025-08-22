@@ -37401,3 +37401,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 17:00:34,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 7 (низкий)""}"
 2025-08-22 17:02:26,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 17:04:53,SUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 17:04:56,SUSDT,short,prob_low_on_yellow_volume,"{""prob"": 68}"
