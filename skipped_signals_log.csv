@@ -37370,3 +37370,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 14:48:35,HYPEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 819 (низкий)""}"
 2025-08-22 14:48:46,HBARUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 14:48:48,HBARUSDT,short,low_volume,"{""note"": ""🔴 Объём: 32689 (низкий)""}"
+2025-08-22 14:48:59,TONUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
