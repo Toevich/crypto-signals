@@ -37386,3 +37386,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 14:55:33,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 14:55:38,BCHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 7 (низкий)""}"
 2025-08-22 15:05:23,UNIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 15:12:50,ARBUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
