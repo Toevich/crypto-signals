@@ -37417,3 +37417,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 18:48:59,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 18:49:02,HYPEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 819 (низкий)""}"
 2025-08-22 18:50:01,MYXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 18:50:03,MYXUSDT,short,local_15m_uptrend,{}
