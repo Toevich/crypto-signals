@@ -37459,3 +37459,4 @@ timestamp,symbol,side,reason,extra
 2025-08-23 01:27:43,TAOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-23 01:27:48,TAOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 112 (низкий)""}"
 2025-08-23 01:47:21,TONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-23 01:47:27,TONUSDT,long,low_volume,"{""note"": ""🔴 Объём: 9762 (низкий)""}"
