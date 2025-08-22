@@ -37395,3 +37395,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 16:01:43,SKLUSDT,short,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-22 16:04:07,MYXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 16:04:09,MYXUSDT,short,local_15m_uptrend,{}
+2025-08-22 16:48:47,HYPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
