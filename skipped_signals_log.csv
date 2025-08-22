@@ -37403,3 +37403,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 17:04:53,SUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 17:04:56,SUSDT,short,prob_low_on_yellow_volume,"{""prob"": 68}"
 2025-08-22 17:15:36,TRXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 17:15:39,TRXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 47880 (низкий)""}"
