@@ -37391,3 +37391,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 15:32:24,ENAUSDT,short,local_15m_uptrend,{}
 2025-08-22 15:32:26,ENAUSDT,short,low_volume,"{""note"": ""🔴 Объём: 102604 (низкий)""}"
 2025-08-22 16:01:31,SKLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 16:01:41,SKLUSDT,short,local_15m_uptrend,{}
