@@ -37436,3 +37436,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 21:28:17,MEMEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 21:28:21,MEMEUSDT,long,low_volume,"{""note"": ""🔴 Объём: 4626020 (низкий)""}"
 2025-08-22 21:36:21,PUMPFUNUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 21:36:27,PUMPFUNUSDT,long,low_volume,"{""note"": ""🔴 Объём: 9151000 (низкий)""}"
