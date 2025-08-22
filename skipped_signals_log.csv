@@ -37380,3 +37380,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 14:52:08,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 14:52:11,ETHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 695 (низкий)""}"
 2025-08-22 14:52:25,ETHPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 14:52:27,ETHPERP,short,low_volume,"{""note"": ""🔴 Объём: 0 (низкий)""}"
