@@ -37465,3 +37465,4 @@ timestamp,symbol,side,reason,extra
 2025-08-23 03:27:31,SUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-23 03:27:36,SUSDT,long,low_volume,"{""note"": ""🔴 Объём: 150955 (низкий)""}"
 2025-08-23 03:28:00,TAOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-23 03:28:05,TAOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 112 (низкий)""}"
