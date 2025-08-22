@@ -37353,3 +37353,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 09:21:27,SOLUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3183 (низкий)""}"
 2025-08-22 09:21:37,AVAXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 09:21:40,AVAXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1304 (низкий)""}"
+2025-08-22 09:41:04,BIOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
