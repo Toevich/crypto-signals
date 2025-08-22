@@ -37425,3 +37425,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 21:25:55,LDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 21:26:01,LDOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 167138 (низкий)""}"
 2025-08-22 21:26:19,PENDLEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 21:26:24,PENDLEUSDT,long,low_volume,"{""note"": ""🔴 Объём: 15484 (низкий)""}"
