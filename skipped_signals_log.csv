@@ -37350,3 +37350,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 08:20:52,HYPEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 08:20:55,HYPEUSDT,long,local_15m_downtrend,{}
 2025-08-22 09:21:24,SOLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 09:21:27,SOLUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3183 (низкий)""}"
