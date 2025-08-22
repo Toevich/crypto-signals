@@ -37344,3 +37344,4 @@ timestamp,symbol,side,reason,extra
 2025-08-22 07:32:42,LTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-22 07:32:45,LTCUSDT,short,low_volume,"{""note"": ""🔴 Объём: 146 (низкий)""}"
 2025-08-22 07:40:49,BIOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-22 07:40:52,BIOUSDT,short,local_15m_uptrend,{}
