@@ -37487,3 +37487,4 @@ timestamp,symbol,side,reason,extra
 2025-08-23 23:25:28,NEARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-23 23:25:30,NEARUSDT,long,local_15m_downtrend,{}
 2025-08-23 23:25:32,NEARUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2367 (низкий)""}"
+2025-08-23 23:43:52,MYXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
