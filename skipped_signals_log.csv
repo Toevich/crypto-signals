@@ -37518,3 +37518,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 05:25:45,TRUMPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1665 (низкий)""}"
 2025-08-24 05:26:03,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 05:26:05,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2707 (низкий)""}"
+2025-08-24 05:26:14,NEARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
