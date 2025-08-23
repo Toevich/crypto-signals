@@ -37502,3 +37502,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 03:25:16,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 03:25:20,SOLUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-24 03:25:29,TRUMPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 03:25:32,TRUMPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1665 (низкий)""}"
