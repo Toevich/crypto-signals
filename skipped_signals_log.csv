@@ -37483,3 +37483,4 @@ timestamp,symbol,side,reason,extra
 2025-08-23 23:25:03,TRUMPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1665 (низкий)""}"
 2025-08-23 23:25:13,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-23 23:25:15,UNIUSDT,long,local_15m_downtrend,{}
+2025-08-23 23:25:18,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2707 (низкий)""}"
