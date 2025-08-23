@@ -37480,3 +37480,4 @@ timestamp,symbol,side,reason,extra
 2025-08-23 23:24:47,SOLUSDT,long,local_15m_downtrend,{}
 2025-08-23 23:24:50,SOLUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-23 23:25:01,TRUMPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-23 23:25:03,TRUMPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1665 (низкий)""}"
