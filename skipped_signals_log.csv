@@ -37472,3 +37472,4 @@ timestamp,symbol,side,reason,extra
 2025-08-23 12:40:38,PNUTUSDT,short,low_volume,"{""note"": ""🔴 Объём: 15076 (низкий)""}"
 2025-08-23 12:42:37,SUIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-23 12:42:58,SUIUSDT,short,low_volume,"{""note"": ""🔴 Объём: 46080 (низкий)""}"
+2025-08-23 12:51:52,MOODENGUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
