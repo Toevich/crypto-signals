@@ -37509,3 +37509,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 03:26:05,NEARUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2367 (низкий)""}"
 2025-08-24 04:06:22,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 04:08:45,ENAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 04:08:47,ENAUSDT,short,local_15m_uptrend,{}
