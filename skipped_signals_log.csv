@@ -37512,3 +37512,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 04:08:47,ENAUSDT,short,local_15m_uptrend,{}
 2025-08-24 05:00:48,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 05:00:52,XRPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 42225 (низкий)""}"
+2025-08-24 05:25:30,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
