@@ -37496,3 +37496,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 01:25:38,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 01:25:41,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2707 (низкий)""}"
 2025-08-24 01:25:49,NEARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 01:25:52,NEARUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2367 (низкий)""}"
