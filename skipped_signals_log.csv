@@ -37603,3 +37603,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 22:21:47,LTCUSDT,long,local_15m_downtrend,{}
 2025-08-24 22:21:50,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-24 22:21:58,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 22:22:00,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2707 (низкий)""}"
