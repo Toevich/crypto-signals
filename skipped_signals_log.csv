@@ -37626,3 +37626,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 01:00:32,ATOMUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1528 (низкий)""}"
 2025-08-25 01:25:57,TRUMPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 01:26:00,TRUMPUSDT,long,local_15m_downtrend,{}
+2025-08-25 01:26:02,TRUMPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1665 (низкий)""}"
