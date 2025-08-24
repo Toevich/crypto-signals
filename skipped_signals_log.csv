@@ -37537,3 +37537,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 08:00:33,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-24 08:06:46,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 08:08:46,ENAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 08:08:48,ENAUSDT,short,local_15m_uptrend,{}
