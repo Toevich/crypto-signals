@@ -37563,3 +37563,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 13:01:54,XRPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 42225 (низкий)""}"
 2025-08-24 13:26:35,ZROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 13:26:38,ZROUSDT,long,local_15m_downtrend,{}
+2025-08-24 13:26:40,ZROUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1434 (низкий)""}"
