@@ -37643,3 +37643,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 02:35:58,JUPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 6016 (низкий)""}"
 2025-08-25 02:37:04,TONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 02:37:07,TONUSDT,long,prob_low_on_yellow_volume,"{""prob"": 65}"
+2025-08-25 02:40:17,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
