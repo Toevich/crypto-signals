@@ -37582,3 +37582,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 17:09:55,WLDUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 17:09:58,WLDUSDT,long,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-24 18:07:49,NEOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 18:07:52,NEOUSDT,short,local_15m_uptrend,{}
