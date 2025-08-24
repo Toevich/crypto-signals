@@ -37524,3 +37524,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 06:00:17,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-24 06:06:34,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 07:01:12,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 07:01:14,XRPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 42225 (низкий)""}"
