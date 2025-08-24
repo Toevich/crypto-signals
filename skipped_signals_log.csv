@@ -37558,3 +37558,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 12:01:00,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-24 12:07:07,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 12:25:27,MYXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 12:59:42,BIOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
