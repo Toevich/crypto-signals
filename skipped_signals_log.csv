@@ -37683,3 +37683,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 05:23:38,WLDUSDT,long,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-25 05:29:51,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 05:29:54,JUPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 6016 (низкий)""}"
+2025-08-25 05:30:05,TRUMPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
