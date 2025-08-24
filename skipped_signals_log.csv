@@ -37585,3 +37585,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 18:07:52,NEOUSDT,short,local_15m_uptrend,{}
 2025-08-24 18:07:54,NEOUSDT,short,low_volume,"{""note"": ""🔴 Объём: 607 (низкий)""}"
 2025-08-24 19:09:55,MAVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 19:09:57,MAVUSDT,short,local_15m_uptrend,{}
