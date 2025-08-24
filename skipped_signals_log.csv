@@ -37610,3 +37610,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 23:00:15,ATOMUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1528 (низкий)""}"
 2025-08-24 23:08:02,BIOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 23:08:05,BIOUSDT,short,local_15m_uptrend,{}
+2025-08-25 00:02:07,ZKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
