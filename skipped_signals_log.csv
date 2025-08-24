@@ -37675,3 +37675,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 04:50:25,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 05:01:01,ALUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 05:01:04,ALUUSDT,short,low_volume,"{""note"": ""🔴 Объём: 553325 (низкий)""}"
+2025-08-25 05:01:26,ATOMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
