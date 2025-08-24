@@ -37591,3 +37591,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 20:21:35,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2707 (низкий)""}"
 2025-08-24 20:31:07,ALUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 20:31:10,ALUUSDT,short,local_15m_uptrend,{}
+2025-08-24 20:31:12,ALUUSDT,short,low_volume,"{""note"": ""🔴 Объём: 553325 (низкий)""}"
