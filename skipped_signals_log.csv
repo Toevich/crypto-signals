@@ -37542,3 +37542,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 09:01:29,XRPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 42225 (низкий)""}"
 2025-08-24 09:25:56,SOLUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 09:25:58,SOLUSDT,long,local_15m_downtrend,{}
+2025-08-24 09:26:01,SOLUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
