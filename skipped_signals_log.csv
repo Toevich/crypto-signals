@@ -37535,3 +37535,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 07:26:29,NEARUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2367 (низкий)""}"
 2025-08-24 08:00:29,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 08:00:33,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
+2025-08-24 08:06:46,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
