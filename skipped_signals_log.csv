@@ -37587,3 +37587,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 19:09:55,MAVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 19:09:57,MAVUSDT,short,local_15m_uptrend,{}
 2025-08-24 20:21:30,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-24 20:21:33,UNIUSDT,long,local_15m_downtrend,{}
