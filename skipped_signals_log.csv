@@ -37630,3 +37630,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 02:07:18,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 02:07:21,XRPUSDT,long,low_volume,"{""note"": ""🔴 Объём: 42225 (низкий)""}"
 2025-08-25 02:22:12,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-25 02:22:15,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
