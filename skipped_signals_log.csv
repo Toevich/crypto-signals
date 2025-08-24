@@ -37566,3 +37566,4 @@ timestamp,symbol,side,reason,extra
 2025-08-24 13:26:40,ZROUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1434 (низкий)""}"
 2025-08-24 13:34:25,ADAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-24 13:34:28,ADAUSDT,long,low_volume,"{""note"": ""🔴 Объём: 128593 (низкий)""}"
+2025-08-24 14:15:12,LTCUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
