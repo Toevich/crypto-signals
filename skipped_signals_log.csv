@@ -37618,3 +37618,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 00:22:02,LTCUSDT,long,prob_low_on_yellow_volume,"{""prob"": 66}"
 2025-08-25 00:22:12,UNIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 00:22:14,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2707 (низкий)""}"
+2025-08-25 00:25:44,ZROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
