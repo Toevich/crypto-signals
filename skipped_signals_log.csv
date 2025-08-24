@@ -37660,3 +37660,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 03:07:34,INJUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 03:08:09,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 03:08:12,ONDOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 239431 (низкий)""}"
+2025-08-25 03:08:59,LINKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
