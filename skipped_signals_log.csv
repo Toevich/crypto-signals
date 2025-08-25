@@ -37795,3 +37795,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 23:15:56,GASUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 23:15:58,GASUSDT,short,prob_low_short,"{""prob"": 35}"
 2025-08-25 23:19:12,SPKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-25 23:19:15,SPKUSDT,short,local_15m_uptrend,{}
