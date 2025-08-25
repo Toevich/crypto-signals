@@ -37764,3 +37764,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 22:03:12,NEOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 22:03:14,NEOUSDT,short,local_15m_uptrend,{}
 2025-08-25 22:03:17,NEOUSDT,short,low_volume,"{""note"": ""🔴 Объём: 2595 (низкий)""}"
+2025-08-25 22:03:19,NEOUSDT,short,prob_low_short,"{""prob"": 35}"
