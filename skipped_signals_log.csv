@@ -37783,3 +37783,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 22:52:27,SPKUSDT,short,prob_low_short,"{""prob"": 45}"
 2025-08-25 22:52:51,ALGOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 22:52:53,ALGOUSDT,short,local_15m_uptrend,{}
+2025-08-25 22:52:54,ALGOUSDT,short,low_volume,"{""note"": ""🔴 Объём: 57649 (низкий)""}"
