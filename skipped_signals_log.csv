@@ -37716,3 +37716,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 08:48:45,ZROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 08:48:47,ZROUSDT,long,local_15m_downtrend,{}
 2025-08-25 08:48:49,ZROUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1434 (низкий)""}"
+2025-08-25 09:01:26,ALUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
