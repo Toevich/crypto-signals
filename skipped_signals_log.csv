@@ -37709,3 +37709,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 07:42:04,TIAUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1932 (низкий)""}"
 2025-08-25 07:42:15,TONUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 07:42:31,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-25 07:42:33,1000BONKUSDT,long,low_volume,"{""note"": ""🔴 Объём: 533300 (низкий)""}"
