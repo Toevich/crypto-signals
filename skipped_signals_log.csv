@@ -37726,3 +37726,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 10:41:06,PUMPFUNUSDT,long,low_volume,"{""note"": ""🔴 Объём: 8172300 (низкий)""}"
 2025-08-25 10:49:00,ZROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 10:49:03,ZROUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1434 (низкий)""}"
+2025-08-25 10:59:29,HBARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
