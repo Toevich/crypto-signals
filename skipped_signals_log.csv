@@ -37701,3 +37701,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 07:39:23,TAOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 29 (низкий)""}"
 2025-08-25 07:40:26,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 07:40:29,ONDOUSDT,long,low_volume,"{""note"": ""🔴 Объём: 239431 (низкий)""}"
+2025-08-25 07:40:53,WLDUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
