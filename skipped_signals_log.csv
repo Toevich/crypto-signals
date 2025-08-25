@@ -37785,3 +37785,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 22:52:53,ALGOUSDT,short,local_15m_uptrend,{}
 2025-08-25 22:52:54,ALGOUSDT,short,low_volume,"{""note"": ""🔴 Объём: 57649 (низкий)""}"
 2025-08-25 22:52:56,ALGOUSDT,short,prob_low_short,"{""prob"": 35}"
+2025-08-25 23:02:00,PENDLEUSDT,long,hard_banned_symbol,"{""symbol"": ""PENDLEUSDT""}"
