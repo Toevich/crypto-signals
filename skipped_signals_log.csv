@@ -37758,3 +37758,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 21:31:33,ALGOUSDT,short,prob_low_short,"{""prob"": 35}"
 2025-08-25 21:38:39,ZORAUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 21:38:42,ZORAUSDT,long,low_volume,"{""note"": ""🔴 Объём: 230730 (низкий)""}"
+2025-08-25 21:49:02,ALGOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
