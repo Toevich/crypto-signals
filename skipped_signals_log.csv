@@ -38449,3 +38449,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 23:53:39,PROMPTUSDT,short,low_volume,"{""note"": ""🔴 Объём: 143997 (низкий)""}"
 2025-08-25 23:53:42,PROMPTUSDT,short,prob_low_short,"{""prob"": 35}"
 2025-08-25 23:53:45,PROMPTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-25 23:53:48,PROMPTUSDT,short,local_15m_uptrend,{}
