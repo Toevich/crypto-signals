@@ -37773,3 +37773,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 22:49:39,SPKUSDT,short,local_15m_uptrend,{}
 2025-08-25 22:49:41,SPKUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1439950 (низкий)""}"
 2025-08-25 22:49:43,SPKUSDT,short,prob_low_short,"{""prob"": 45}"
+2025-08-25 22:51:19,SPKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
