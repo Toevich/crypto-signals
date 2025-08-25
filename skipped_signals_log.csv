@@ -37730,3 +37730,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 11:00:06,ETHFIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 11:01:39,ALUUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 11:01:42,ALUUSDT,short,low_volume,"{""note"": ""🔴 Объём: 553325 (низкий)""}"
+2025-08-25 11:02:10,ATOMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
