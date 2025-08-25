@@ -37713,3 +37713,4 @@ timestamp,symbol,side,reason,extra
 2025-08-25 07:49:23,LINKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-25 07:49:26,LINKUSDT,long,low_volume,"{""note"": ""🔴 Объём: 3589 (низкий)""}"
 2025-08-25 08:47:55,BIOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-25 08:48:45,ZROUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
