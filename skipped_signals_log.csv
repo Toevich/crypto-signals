@@ -38549,3 +38549,4 @@ timestamp,symbol,side,reason,extra
 2025-08-26 09:41:01,MAVUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-26 10:55:56,SPKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-26 12:23:02,SPKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-26 14:42:46,PENGUUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
