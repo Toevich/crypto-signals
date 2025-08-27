@@ -38593,3 +38593,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:39:26,FARTCOINUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:39:30,FARTCOINUSDT,short,low_volume,"{""note"": ""🔴 Объём: 302370 (низкий)""}"
 2025-08-28 03:43:48,SPXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 03:43:52,SPXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1783 (низкий)""}"
