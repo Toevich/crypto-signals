@@ -38565,3 +38565,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:23:25,JUPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 16863 (низкий)""}"
 2025-08-28 03:24:01,TIAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:24:05,TIAUSDT,short,low_volume,"{""note"": ""🔴 Объём: 5753 (низкий)""}"
+2025-08-28 03:24:16,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
