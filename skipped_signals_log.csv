@@ -38583,3 +38583,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:27:03,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:27:07,VIRTUALUSDT,short,low_volume,"{""note"": ""🔴 Объём: 2128 (низкий)""}"
 2025-08-28 03:30:21,POPCATUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 03:30:24,POPCATUSDT,short,low_volume,"{""note"": ""🔴 Объём: 58757 (низкий)""}"
