@@ -38598,3 +38598,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:59:38,AI16ZUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:59:42,AI16ZUSDT,short,low_volume,"{""note"": ""🔴 Объём: 119380 (низкий)""}"
 2025-08-28 04:53:56,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 04:54:00,BTCUSDT,short,low_volume,"{""note"": ""🔴 Объём: 33 (низкий)""}"
