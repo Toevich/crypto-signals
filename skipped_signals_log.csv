@@ -38579,3 +38579,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:26:32,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:26:37,ETHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 532 (низкий)""}"
 2025-08-28 03:26:48,LINKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 03:26:52,LINKUSDT,short,low_volume,"{""note"": ""🔴 Объём: 6520 (низкий)""}"
