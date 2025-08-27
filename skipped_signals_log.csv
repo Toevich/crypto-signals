@@ -38596,3 +38596,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:43:52,SPXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1783 (низкий)""}"
 2025-08-28 03:48:14,WLFIUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:59:38,AI16ZUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 03:59:42,AI16ZUSDT,short,low_volume,"{""note"": ""🔴 Объём: 119380 (низкий)""}"
