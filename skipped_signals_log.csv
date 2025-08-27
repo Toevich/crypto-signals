@@ -38576,3 +38576,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 03:25:32,ETHPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:25:49,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 03:25:52,1000PEPEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 4771700 (низкий)""}"
+2025-08-28 03:26:32,ETHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
