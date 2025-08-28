@@ -38667,3 +38667,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 11:39:45,FARTCOINUSDT,short,low_volume,"{""note"": ""🔴 Объём: 302370 (низкий)""}"
 2025-08-28 11:40:11,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 11:40:22,BTCUSDT,short,low_volume,"{""note"": ""🔴 Объём: 33 (низкий)""}"
+2025-08-28 11:40:46,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
