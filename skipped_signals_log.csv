@@ -38758,3 +38758,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 20:43:25,TOWNSUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 20:43:29,TOWNSUSDT,short,local_15m_uptrend,{}
 2025-08-28 20:49:07,DOGEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 20:49:11,DOGEUSDT,short,local_15m_uptrend,{}
