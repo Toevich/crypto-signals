@@ -38709,3 +38709,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 16:35:46,WLFIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 16:35:50,WLFIUSDT,short,low_volume,"{""note"": ""🔴 Объём: 4954 (низкий)""}"
 2025-08-28 16:45:03,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 16:49:01,PUMPFUNUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
