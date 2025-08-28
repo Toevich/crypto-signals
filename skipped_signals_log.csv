@@ -38625,3 +38625,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 08:18:41,INJUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 08:18:44,INJUSDT,short,low_volume,"{""note"": ""🔴 Объём: 49 (низкий)""}"
 2025-08-28 08:18:55,JUPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 08:18:58,JUPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 16863 (низкий)""}"
