@@ -38655,3 +38655,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 10:56:16,JUPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 16863 (низкий)""}"
 2025-08-28 11:01:03,SNXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 11:01:07,SNXUSDT,short,local_15m_uptrend,{}
+2025-08-28 11:01:10,SNXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1561 (низкий)""}"
