@@ -38683,3 +38683,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 14:15:51,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 14:27:04,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 14:27:18,PUMPFUNUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 14:27:21,PUMPFUNUSDT,short,local_15m_uptrend,{}
