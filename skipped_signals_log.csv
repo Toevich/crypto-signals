@@ -38611,3 +38611,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 06:22:34,HYPERUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3570 (низкий)""}"
 2025-08-28 07:01:41,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 07:01:45,BTCUSDT,short,low_volume,"{""note"": ""🔴 Объём: 33 (низкий)""}"
+2025-08-28 07:04:04,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
