@@ -38753,3 +38753,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 20:33:08,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 20:33:12,BTCUSDT,short,low_volume,"{""note"": ""🟡 Объём: 26 (средний)""}"
 2025-08-28 20:35:14,ADAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 20:35:53,BCHUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
