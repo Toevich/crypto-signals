@@ -38738,3 +38738,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 19:00:56,TRUMPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 19:01:00,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1070 (низкий)""}"
 2025-08-28 19:05:37,CROUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 19:08:57,SEIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
