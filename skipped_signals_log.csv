@@ -38762,3 +38762,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 20:52:04,DOTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 20:52:08,DOTUSDT,short,local_15m_uptrend,{}
 2025-08-28 21:01:21,TRUMPUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 21:01:26,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1070 (низкий)""}"
