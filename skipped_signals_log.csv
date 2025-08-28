@@ -38741,3 +38741,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 19:08:57,SEIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 19:09:01,SEIUSDT,short,low_volume,"{""note"": ""🔴 Объём: 18252 (низкий)""}"
 2025-08-28 19:17:18,GMTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 19:31:35,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
