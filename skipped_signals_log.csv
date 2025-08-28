@@ -38647,3 +38647,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 10:18:16,TIAUSDT,short,low_volume,"{""note"": ""🔴 Объём: 5753 (низкий)""}"
 2025-08-28 10:31:58,1000PEPEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 10:32:02,1000PEPEUSDT,short,low_volume,"{""note"": ""🔴 Объём: 4771700 (низкий)""}"
+2025-08-28 10:32:32,AI16ZUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
