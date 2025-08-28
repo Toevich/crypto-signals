@@ -38671,3 +38671,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 11:44:11,ETHPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 11:45:50,INJUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 11:45:54,INJUSDT,short,low_volume,"{""note"": ""🔴 Объём: 49 (низкий)""}"
+2025-08-28 11:47:23,XRPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
