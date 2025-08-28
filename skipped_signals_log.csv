@@ -38661,3 +38661,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 11:17:07,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 11:17:11,AAVEUSDT,long,low_volume,"{""note"": ""🔴 Объём: 38 (низкий)""}"
 2025-08-28 11:33:15,SPXUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 11:33:18,SPXUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1783 (низкий)""}"
