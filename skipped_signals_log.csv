@@ -38743,3 +38743,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 19:17:18,GMTUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 19:31:35,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 19:36:46,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 19:41:13,SUIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
