@@ -38719,3 +38719,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 17:14:26,SUIUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 17:14:30,SUIUSDT,short,low_volume,"{""note"": ""🔴 Объём: 3250 (низкий)""}"
 2025-08-28 17:28:01,FILUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 17:28:05,FILUSDT,short,low_volume,"{""note"": ""🔴 Объём: 60 (низкий)""}"
