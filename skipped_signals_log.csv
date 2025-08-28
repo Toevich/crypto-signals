@@ -38725,3 +38725,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 17:29:06,MAVUSDT,short,low_volume,"{""note"": ""🔴 Объём: 30144 (низкий)""}"
 2025-08-28 17:35:17,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 18:24:40,BTCUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 18:24:45,BTCUSDT,short,low_volume,"{""note"": ""🟡 Объём: 26 (средний)""}"
