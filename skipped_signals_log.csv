@@ -38700,3 +38700,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 15:01:30,VIRTUALUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 15:02:21,WIFUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 15:03:02,FILUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 15:03:06,FILUSDT,short,low_volume,"{""note"": ""🔴 Объём: 60 (низкий)""}"
