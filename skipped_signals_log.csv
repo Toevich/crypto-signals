@@ -38765,3 +38765,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 21:01:26,TRUMPUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1070 (низкий)""}"
 2025-08-28 21:03:21,GALAUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 21:03:25,GALAUSDT,short,low_volume,"{""note"": ""🔴 Объём: 540719 (низкий)""}"
+2025-08-28 21:03:50,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
