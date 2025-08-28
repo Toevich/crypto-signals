@@ -38734,3 +38734,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 18:46:44,WLFIUSDT,short,low_volume,"{""note"": ""🔴 Объём: 4954 (низкий)""}"
 2025-08-28 18:59:23,PUMPFUNUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 18:59:28,PUMPFUNUSDT,short,low_volume,"{""note"": ""🔴 Объём: 7604200 (низкий)""}"
+2025-08-28 19:00:19,ALGOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
