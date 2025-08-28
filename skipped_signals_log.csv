@@ -38681,3 +38681,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 11:48:42,ETHUSDT,short,low_volume,"{""note"": ""🔴 Объём: 532 (низкий)""}"
 2025-08-28 12:15:33,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 14:15:51,ONDOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 14:27:04,BTCPERP,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
