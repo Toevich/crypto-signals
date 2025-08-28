@@ -38637,3 +38637,4 @@ timestamp,symbol,side,reason,extra
 2025-08-28 08:54:22,SOLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-28 08:54:25,SOLUSDT,short,low_volume,"{""note"": ""🔴 Объём: 14731 (низкий)""}"
 2025-08-28 09:11:20,BCHUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-28 09:11:23,BCHUSDT,short,local_15m_uptrend,{}
