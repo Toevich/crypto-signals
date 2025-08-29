@@ -39168,3 +39168,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 19:41:26,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 19:41:30,1000BONKUSDT,long,local_15m_downtrend,{}
 2025-08-29 19:41:35,1000BONKUSDT,long,low_volume,"{""note"": ""🔴 Объём: 937800 (низкий)""}"
+2025-08-29 19:41:47,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
