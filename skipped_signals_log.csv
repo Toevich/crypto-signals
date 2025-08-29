@@ -40622,3 +40622,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 21:45:20,FLOCKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 21:45:56,DOLOUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 22:22:20,MAVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-29 22:22:24,MAVUSDT,short,local_15m_uptrend,{}
