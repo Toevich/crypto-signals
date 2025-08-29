@@ -40129,3 +40129,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 21:03:46,UNIUSDT,long,low_volume,"{""note"": ""🔴 Объём: 2913 (низкий)""}"
 2025-08-29 21:03:59,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 21:04:03,DOLOUSDT,long,entry_price_outside_zone,"{""price"": 0.23127, ""z_low"": 0.216602, ""z_high"": 0.217038, ""drift_pct"": 6.564}"
+2025-08-29 21:04:08,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
