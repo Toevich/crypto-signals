@@ -38788,3 +38788,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 16:48:35,POLUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 16:48:41,POLUSDT,short,low_volume,"{""note"": ""🔴 Объём: 91667 (низкий)""}"
 2025-08-29 17:08:58,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-29 17:09:03,DOLOUSDT,long,entry_price_outside_zone,"{""price"": 0.21965, ""z_low"": 0.217147, ""z_high"": 0.217364, ""drift_pct"": 1.052}"
