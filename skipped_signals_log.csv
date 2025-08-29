@@ -39109,3 +39109,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 19:35:07,AVAXUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 19:35:12,AVAXUSDT,long,local_15m_downtrend,{}
 2025-08-29 19:35:18,AVAXUSDT,long,low_volume,"{""note"": ""🔴 Объём: 1876 (низкий)""}"
+2025-08-29 19:35:32,NEARUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
