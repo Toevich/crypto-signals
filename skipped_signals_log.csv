@@ -39121,3 +39121,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 19:36:36,FILUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 19:36:41,FILUSDT,long,local_15m_downtrend,{}
 2025-08-29 19:36:46,FILUSDT,long,low_volume,"{""note"": ""🔴 Объём: 407 (низкий)""}"
+2025-08-29 19:37:09,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
