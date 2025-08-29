@@ -38802,3 +38802,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 18:00:49,MNTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 18:00:54,MNTUSDT,long,low_volume,"{""note"": ""🔴 Объём: 11894 (низкий)""}"
 2025-08-29 19:09:50,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-29 19:09:54,DOLOUSDT,long,local_15m_downtrend,{}
