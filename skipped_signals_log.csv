@@ -39113,3 +39113,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 19:35:38,NEARUSDT,long,local_15m_downtrend,{}
 2025-08-29 19:35:44,NEARUSDT,long,low_volume,"{""note"": ""🔴 Объём: 5413 (низкий)""}"
 2025-08-29 19:35:57,PENGUUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-29 19:36:02,PENGUUSDT,long,local_15m_downtrend,{}
