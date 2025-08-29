@@ -38798,3 +38798,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 17:09:33,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 17:09:38,DOLOUSDT,long,prob_low_on_yellow_volume,"{""prob"": 61}"
 2025-08-29 17:13:51,JUPUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-29 17:13:55,JUPUSDT,long,local_15m_downtrend,{}
