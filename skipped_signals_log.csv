@@ -39173,3 +39173,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 19:41:56,DOLOUSDT,long,entry_price_outside_zone,"{""price"": 0.22681, ""z_low"": 0.216602, ""z_high"": 0.217038, ""drift_pct"": 4.507}"
 2025-08-29 19:41:59,AI16ZUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 19:42:04,AI16ZUSDT,long,local_15m_downtrend,{}
+2025-08-29 19:42:08,AI16ZUSDT,long,low_volume,"{""note"": ""🔴 Объём: 103435 (низкий)""}"
