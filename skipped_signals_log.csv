@@ -39166,3 +39166,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 19:41:09,AAVEUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 19:41:14,AAVEUSDT,long,low_volume,"{""note"": ""🔴 Объём: 159 (низкий)""}"
 2025-08-29 19:41:26,1000BONKUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-29 19:41:30,1000BONKUSDT,long,local_15m_downtrend,{}
