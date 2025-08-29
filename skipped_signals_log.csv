@@ -39786,3 +39786,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 20:33:27,MNTUSDT,long,low_volume,"{""note"": ""🔴 Объём: 11894 (низкий)""}"
 2025-08-29 20:33:40,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 20:33:44,DOLOUSDT,long,local_15m_downtrend,{}
+2025-08-29 20:33:48,DOLOUSDT,long,entry_price_outside_zone,"{""price"": 0.23426, ""z_low"": 0.216602, ""z_high"": 0.217038, ""drift_pct"": 7.943}"
