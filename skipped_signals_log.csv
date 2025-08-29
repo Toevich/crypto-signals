@@ -40296,3 +40296,4 @@ timestamp,symbol,side,reason,extra
 2025-08-29 21:18:11,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-29 21:18:14,DOLOUSDT,long,local_15m_downtrend,{}
 2025-08-29 21:18:18,DOLOUSDT,long,entry_price_outside_zone,"{""price"": 0.2287, ""z_low"": 0.216602, ""z_high"": 0.217038, ""drift_pct"": 5.379}"
+2025-08-29 21:18:23,DOLOUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
