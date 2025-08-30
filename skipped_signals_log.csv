@@ -43509,3 +43509,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 16:38:42,QTUMUSDT,long,entry_price_outside_zone,"{""price"": 2.925, ""z_low"": 2.814932, ""z_high"": 2.820593, ""drift_pct"": 3.705}"
 2025-08-30 16:38:45,QTUMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 16:38:49,QTUMUSDT,long,low_volume,"{""note"": ""🔴 Объём: 11172 (низкий)""}"
+2025-08-30 16:38:52,QTUMUSDT,long,entry_price_outside_zone,"{""price"": 2.925, ""z_low"": 2.825375, ""z_high"": 2.831057, ""drift_pct"": 3.322}"
