@@ -41096,3 +41096,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 13:59:28,1000BONKUSDT,short,local_15m_uptrend,{}
 2025-08-30 13:59:32,1000BONKUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1559200 (низкий)""}"
 2025-08-30 13:59:43,QTUMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-30 13:59:46,QTUMUSDT,long,local_15m_downtrend,{}
