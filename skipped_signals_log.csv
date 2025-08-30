@@ -40682,3 +40682,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 11:34:44,QTUMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 11:34:50,QTUMUSDT,long,low_volume,"{""note"": ""🔴 Объём: 11172 (низкий)""}"
 2025-08-30 12:15:48,LPTUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-30 12:35:26,MUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
