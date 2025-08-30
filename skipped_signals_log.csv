@@ -40687,3 +40687,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 12:38:02,AAVEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 12:41:50,SPKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 12:41:55,SPKUSDT,short,low_volume,"{""note"": ""🔴 Объём: 58890 (низкий)""}"
+2025-08-30 13:35:09,QTUMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
