@@ -43491,3 +43491,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 16:37:27,QTUMUSDT,long,entry_price_outside_zone,"{""price"": 2.918, ""z_low"": 2.825375, ""z_high"": 2.831057, ""drift_pct"": 3.074}"
 2025-08-30 16:37:38,1000BONKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 16:37:42,1000BONKUSDT,short,local_15m_uptrend,{}
+2025-08-30 16:37:45,1000BONKUSDT,short,low_volume,"{""note"": ""🔴 Объём: 1559200 (низкий)""}"
