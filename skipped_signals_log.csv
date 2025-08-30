@@ -42521,3 +42521,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 15:32:00,MAVUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 15:32:04,MAVUSDT,short,low_volume,"{""note"": ""🔴 Объём: 121887 (низкий)""}"
 2025-08-30 15:32:25,QTUMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-30 15:32:29,QTUMUSDT,long,low_volume,"{""note"": ""🔴 Объём: 11172 (низкий)""}"
