@@ -40658,3 +40658,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 11:32:31,CROUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 11:32:34,CROUSDT,short,local_15m_uptrend,{}
 2025-08-30 11:32:38,CROUSDT,short,low_volume,"{""note"": ""🔴 Объём: 88431 (низкий)""}"
+2025-08-30 11:32:50,QTUMUSDT,long,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
