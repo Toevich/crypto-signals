@@ -40685,3 +40685,4 @@ timestamp,symbol,side,reason,extra
 2025-08-30 12:35:26,MUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-08-30 12:35:31,MUSDT,short,prob_low_on_yellow_volume,"{""prob"": 55}"
 2025-08-30 12:38:02,AAVEUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-08-30 12:41:50,SPKUSDT,short,trend_gate_fail,"{""inst_ok"": false, ""btc_ok"": false}"
