@@ -25,3 +25,4 @@ timestamp,symbol,side,reason,extra
 2025-09-01 22:46:24,MAVUSDT,short,low_volume,"{""note"": ""🔴 Объём: 97715 (низкий)""}"
 2025-09-01 22:46:25,MAVUSDT,short,heuristics_reject,"{""rr"": 2.394, ""prob"": 54, ""nn_passed"": false}"
 2025-09-01 22:46:39,MAVUSDT,short,trend_gate_fail_alt,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-09-01 22:46:40,MAVUSDT,short,low_volume,"{""note"": ""🔴 Объём: 97715 (низкий)""}"
