@@ -22,3 +22,4 @@ timestamp,symbol,side,reason,extra
 2025-09-01 22:42:20,PUMPFUNUSDT,short,trend_gate_fail_alt,"{""inst_ok"": false, ""btc_ok"": false}"
 2025-09-01 22:42:21,PUMPFUNUSDT,short,local_15m_uptrend,{}
 2025-09-01 22:46:21,MAVUSDT,short,trend_gate_fail_alt,"{""inst_ok"": false, ""btc_ok"": false}"
+2025-09-01 22:46:24,MAVUSDT,short,low_volume,"{""note"": ""🔴 Объём: 97715 (низкий)""}"
